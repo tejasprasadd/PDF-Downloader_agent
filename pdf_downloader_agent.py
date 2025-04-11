@@ -293,7 +293,7 @@ def main():
     
     try:
         # Navigate to the NIRF rankings page
-        agent.navigate_to_url("https://www.nirfindia.org/Rankings/2024/EngineeringRanking.html")
+        agent.navigate_to_url("navigate-to-your-url") #Replace this with your desired URL
         
         # Wait for the page to load completely
         time.sleep(5)
